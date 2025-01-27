@@ -5,8 +5,11 @@ it is famous in my hometown,everey one likes hyderbad, it has so many flavours i
 **chicken dum biryani**
 
 ---
-## places od favourite food
+## places of favourite food
 1. it is easy to get from mefhil in warangal which is near to my village
 2. Desi bites which is in kansas the food in this restuarant is very good
 3. kalinga patnam where we can get fastest delivery in  my location
-
+* side dishes i like while having chicken dum biryani
+* salad which is very rich in vitamin
+* raita ,biryani is incomplete withput this
+*  chicken gravy where we eill mix in biryani 
