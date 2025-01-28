@@ -33,3 +33,17 @@ Here are four heroes who could potentially replace Nani in Eega, they’d suit t
 > "It always seems impossible until it’s done." 
 > *: Nelson mandela*
 ***
+### How to Update an existing file in Node.js
+The given code defines a function updateFile using Node.js's fs module to append new text to an existing file.
+fileSystem.appendFile(): Adds the provided text to the end of the file specified by fileName.
+```javascript
+const fileSystem = require('fs');
+
+const updateFile = (fileName, text) => {
+	fileSystem.appendFile(fileName, text, (error) => {
+		if (error) throw error;
+		console.log('Updated the file!');
+	});
+};  
+```
+quick link for snippet code - <https://code.pieces.app/collections/node-js>
