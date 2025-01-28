@@ -30,6 +30,6 @@ Here are four heroes who could potentially replace Nani in Eega, they’d suit t
 > "Be the change that you wish to see in the world."
 > *: mahatma gandhi*
 
-> "Be the change that you wish to see in the world "
+> "It always seems impossible until it’s done." 
 > *: Nelson mandela*
 ***
