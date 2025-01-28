@@ -13,3 +13,4 @@ it is famous in my hometown,everey one likes hyderbad, it has so many flavours i
 * salad which is very rich in vitamin
 * raita ,biryani is incomplete withput this
 *  chicken gravy where we eill mix in biryani 
+1[maincharacterofmovie](https://github.com/Tharun7075/show_Tharun/blob/main/MyMovie.md)
