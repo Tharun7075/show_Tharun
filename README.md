@@ -26,3 +26,10 @@ Here are four heroes who could potentially replace Nani in Eega, they’d suit t
 |Sharwanand      |Relatable and emotional which needs in this movie                                    | 38 |
 |Dulquer Salmaan |Sincere and natural                                                                  | 35 |
 ----
+### favourite quotes
+> "Be the change that you wish to see in the world."
+> *: mahatma gandhi*
+
+> "Be the change that you wish to see in the world "
+> *: Nelson mandela*
+***
